@@ -1,0 +1,3 @@
+# EasyRecyclerViewAdapter
+
+work in progress
